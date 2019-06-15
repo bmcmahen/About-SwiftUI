@@ -123,6 +123,7 @@ _🌟 most interesting_
 * **[SwiftUI vs Interface Builder and storyboards](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-vs-interface-builder-and-storyboards)** by [Hacking with Swift](https://twitter.com/twostraws)
 * **[SwiftUI Basics: List Fetching](https://medium.com/@matschmidy/swiftui-basics-list-fetching-9b03fb145d85?postPublishedType=initial)** by [Mat Schmid](https://twitter.com/devschmidy)
 * **[SwiftUI, personal thoughts and Model-View-Presenter](https://www.dcordero.me/posts/swiftui_personal_thoughts_and_mvp.html)** by [David Cordero](https://www.dcordero.me)
+* **[An Introduction to SwiftUI for React Developers](https://benmcmahen.com/swiftui-for-react-developers/)** by [Ben McMahen](https://benmcmahen.com/)
 
 
 #### 📦 Repositories
@@ -166,6 +167,7 @@ _🌟 most interesting_
 * **[AniTime](https://github.com/PangMo5/AniTime)**. Anime schedule, korean subtitle for iOS with SwiftUI + Combine and MVVM architecture
 * **[Fluxus](https://github.com/johnsusek/fluxus)**. True one-way data flow for SwiftUI, inspired by Vuex.
 * **[ChartView in SwiftUI](https://github.com/AppPear/ChartView)**. Easy to use animated Chartview supporting `Bar and Piecharts`
+* **[React Meets SwiftUI](https://github.com/bmcmahen/react-meets-swiftui)**. Common react design patterns implemented in SwiftUI.
 
 #### 🖥 Videos
 * **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
